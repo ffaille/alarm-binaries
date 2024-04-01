@@ -1,0 +1,3 @@
+patching file odroid-tweaks
+patching file odroid-tweaks.service
+patching file 40-usb_modeswitch.rules (read from postinstall-pak)

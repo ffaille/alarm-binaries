@@ -1,0 +1,10 @@
+Removing scripts/dtc/include-prefixes/powerpc
+Removing scripts/dtc/include-prefixes/nios2
+Removing scripts/dtc/include-prefixes/arc
+Removing scripts/dtc/include-prefixes/arm
+Removing scripts/dtc/include-prefixes/microblaze
+Removing scripts/dtc/include-prefixes/arm64
+Removing scripts/dtc/include-prefixes/xtensa
+Removing scripts/dtc/include-prefixes/mips
+Removing scripts/dtc/include-prefixes/sh
+Removing scripts/dtc/include-prefixes/openrisc

@@ -1,0 +1,8 @@
+Image Name:   U-Boot boot script
+Created:      Wed Mar 27 22:30:29 2024
+Image Type:   ARM Linux Script (uncompressed)
+Data Size:    1982 Bytes = 1.94 KiB = 0.00 MiB
+Load Address: 00000000
+Entry Point:  00000000
+Contents:
+   Image 0: 1974 Bytes = 1.93 KiB = 0.00 MiB

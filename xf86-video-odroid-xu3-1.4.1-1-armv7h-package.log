@@ -1,0 +1,25 @@
+Making install in src
+make[1]: Entering directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3/src'
+make[2]: Entering directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3/src'
+make[2]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/build/xf86-video-odroid-xu3/pkg/xf86-video-odroid-xu3/usr/lib/xorg/modules/drivers'
+ /bin/sh ../libtool   --mode=install /usr/bin/install -c   armsoc_drv.la '/build/xf86-video-odroid-xu3/pkg/xf86-video-odroid-xu3/usr/lib/xorg/modules/drivers'
+libtool: install: /usr/bin/install -c .libs/armsoc_drv.so /build/xf86-video-odroid-xu3/pkg/xf86-video-odroid-xu3/usr/lib/xorg/modules/drivers/armsoc_drv.so
+libtool: install: /usr/bin/install -c .libs/armsoc_drv.lai /build/xf86-video-odroid-xu3/pkg/xf86-video-odroid-xu3/usr/lib/xorg/modules/drivers/armsoc_drv.la
+libtool: warning: remember to run 'libtool --finish /usr/lib/xorg/modules/drivers'
+make[2]: Leaving directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3/src'
+make[1]: Leaving directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3/src'
+Making install in man
+make[1]: Entering directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3/man'
+make[2]: Entering directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3/man'
+make[2]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/build/xf86-video-odroid-xu3/pkg/xf86-video-odroid-xu3/usr/share/man/man4'
+ /usr/bin/install -c -m 644 armsoc.4 '/build/xf86-video-odroid-xu3/pkg/xf86-video-odroid-xu3/usr/share/man/man4'
+make[2]: Leaving directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3/man'
+make[1]: Leaving directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3/man'
+make[1]: Entering directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3'
+make[2]: Entering directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3'
+make[1]: Leaving directory '/build/xf86-video-odroid-xu3/src/xf86-video-odroid-xu3'
